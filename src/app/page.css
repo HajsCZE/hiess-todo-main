@@ -1,0 +1,42 @@
+body{
+    background-color: whitesmoke;
+    position: absolute;
+    width: 100%;
+    height: 100vh;
+    color: black !important;
+    font-weight: bold;
+}
+
+
+.tatoclassa{
+    font-size: 20px !important;
+    font-weight: lighter;
+}
+
+
+.main{
+    position: absolute;
+    margin-top: -10%;
+    color: white !important;
+    background-color: black !important;
+    margin-left: -48%;
+}
+
+
+.sem{
+    color: green !important;
+}
+
+
+.tady:hover{
+    background-color: green;
+    color: white;
+}
+
+.tadytototo:hover{
+    color: red !important;
+}
+
+.tadytototo{
+    color: BLACK !important;
+}
